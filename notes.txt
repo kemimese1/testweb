@@ -1,1 +1,2 @@
-adding a new branch for github
+dding a new branch for github
+please add changes suggested by atiq
