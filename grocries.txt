@@ -1,3 +1,5 @@
 egg
 meat
 fish
+vegetable
+rice
